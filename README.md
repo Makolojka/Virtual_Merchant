@@ -18,21 +18,53 @@ podczas tzw. „Gry fabularnej”. Wszystko to będzie się odbywać za pośredn
 
 # Ekrany aplikacji
 
-
+### Logowanie
+<kbd><img src="./resources/logowanie.png" width="800" /></kbd>
 ***
 
+### Rejestracja
+<kbd><img src="./resources/rejestracja.png" width="800" /></kbd>
+***
+
+### Menu
+<kbd><img src="./resources/home.png" width="800" /></kbd>
+***
+
+### Profil
+<kbd><img src="./resources/profile.png" width="800" /></kbd>
+***
+
+### Zmiana avataru
+<kbd><img src="./resources/avatar.png" width="800" /></kbd>
+***
+
+### Ekwipunek
+<kbd><img src="./resources/eq.png" width="800" /></kbd>
+***
+
+### Sklep
+<kbd><img src="./resources/shop.png" width="800" /></kbd>
+***
+
+
 # Diagramy ERD
+<table>
+  <tr>
+    <td><kbd><img src="./resources/przypadki_użycia.png" width="800" /></kbd></td>
+    <td><kbd><img src="./resources/Stanów.png" width="800" /></kbd></td>
+    <td><kbd><img src="./resources/sekwencji.png" width="800" /></kbd></td>
+    <td><kbd><img src="./resources/pakietów.drawio.png" width="800" /></kbd></td>
+  </tr>
+</table>
 
 
 # Dokumentacja projektu
-
+[Dokumentacja.pdf](./resources/Dokumentacja%końcowa.pdf)
 
 # Technologie użyte w projekcie
 - java
 - maven
 - postgresql
-
-***
 
 # Autorzy
 Marcin Król, Piotr Duda
