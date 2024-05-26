@@ -13,9 +13,9 @@ import java.util.List;
 
 public class DatabaseConnection {
 
-    private final static String url = "jdbc:postgresql://195.150.230.210:5436/2022_krol_marcin";
-    private final static String userDB = "2022_krol_marcin";
-    private final static String passwordDB = "34300";
+    private final static String url = "jdbc:postgresql://url";
+    private final static String userDB = "userDB";
+    private final static String passwordDB = "password";
 
     private Connection connection;
 
